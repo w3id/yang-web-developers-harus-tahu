@@ -28,8 +28,8 @@ Contoh
 
 ### [JakartaJS April Meetup #39 With Kumparan](https://www.meetup.com/JakartaJS/events/249788389/)
 
-!(JakartaJS community)[https://secure.meetupstatic.com/photos/event/d/7/8/d/highres_469435181.jpeg]
-
+![JakartaJS community](https://secure.meetupstatic.com/photos/event/d/7/8/d/highres_469435181.jpeg)
+*JakartaJS community*
 
 Event JakartaJS April Meetup ini bakal diadakan di kantor [Kumparan](https://kumparan.com) dengan topik:
 * Talk 1: How to Handle 300K users Concurent Traffic
