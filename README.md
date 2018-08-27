@@ -1,13 +1,13 @@
 # Yang Web Developer Harus Tahu
 Repository ini untuk kolaboratif newsletter untuk web developers Indonesia agar update dengan trend dan perkembangan terbaru di dunia pengembangan web. Konten yang dikirim dibagi menjadi 3 bagian:
-* **Berita terbaru**, ini bisa terkait rilis terbaru dari suatu produk/tools/librar/framework atau ada informasi terkait event, dan lainnya. Konten relevan dengan waktu.
-* **Konten menarik**, ini untuk konten-konten yang menarik untuk  tidak terkait dengan waktu. Konten akan terus relevan walaupun mungkin perlu update sedikit.
+* **Berita terbaru**, ini bisa terkait rilis terbaru dari suatu produk/tools/library/framework atau ada informasi terkait event, dan lainnya. Konten relevan dengan waktu.
+* **Konten menarik**, ini untuk konten-konten yang menarik untuk tidak terkait dengan waktu. Konten akan terus relevan walaupun mungkin perlu update sedikit.
 * **Tools, library, dan framework**. Ini terkait tools, library, atau framework yang digunakan. Rilis atau update tidak diposting di sini melainkan di news. Ini untuk tools yang belum pernah dicantumkan di newsletter ini.
 
 ## Cara Kontribusi
 1. Setiap minggu pertama dan minggu ketiga akan dibuat template di  folder draft dengan format filename **YYMM-draft.md**  yang kontributor bisa memasukkan rekomendasi konten di 3 kategori konten di atas.
 2. Untuk mengedit konten bisa dengan 2 cara, bila ingin rutin kontribusi bisa join organisasi github ini dan langsung melakukan commit di file draft. Bila ingin kontribusi sesekali bisa melakukan pull request. 
-3.Setiap tanggal 5 dan 20(semoga bisa tepat waktu 🤞) di tiap bulannya, draft akan dikurasi dan dikirimkan melalui Medium WWWID.
+3. Setiap tanggal 5 dan 20 (semoga bisa tepat waktu 🤞) di tiap bulannya, draft akan dikurasi dan dikirimkan melalui Medium WWWID.
 
 ## Format Konten
 
